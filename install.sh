@@ -9,6 +9,6 @@ sudo apt install -y build-essential
 git clone https://github.com/terminal-labs/rambo-states.git
 cd rambo-states
 
-sudo make linux
+sudo make rambobox
 
 source /home/${USER}/miniconda3/etc/profile.d/conda.sh
